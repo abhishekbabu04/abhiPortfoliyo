@@ -222,5 +222,15 @@ export const SkillsInfo = [
       github: "https://github.com/abhishekbabu04/js-ui-utility-projects",
       webapp: "https://abhiuijsprograms.netlify.app/",
     },
+   {
+      id: 2,
+      title: "To Do List",
+      description:
+        "A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, complete, and delete tasks with a clean and interactive user interface.",
+      image: jsuiLogo,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/abhishekbabu04/Todo_list_js",
+      webapp: "https://abhitodolist-six-weld.vercel.app/",
+    }
      
   ];  
