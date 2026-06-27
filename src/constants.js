@@ -222,6 +222,7 @@ export const SkillsInfo = [
       github: "https://github.com/abhishekbabu04/js-ui-utility-projects",
       webapp: "https://abhiuijsprograms.netlify.app/",
     },
+
     {
       id: 2,
       title: "To Do List",
@@ -232,5 +233,6 @@ export const SkillsInfo = [
       github: "https://github.com/abhishekbabu04/Todo_list_js",
       webapp: "https://abhitodolist-six-weld.vercel.app/",
     }
+  
      
   ];  
