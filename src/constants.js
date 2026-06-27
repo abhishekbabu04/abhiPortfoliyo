@@ -46,6 +46,7 @@ import rprdLogo from './assets/company_logo/rprdLogo.webp';
 // Project Section Logo's
 import bootsProject from './assets/work_logo/boots.png';
 import jsuiLogo from './assets/work_logo/jsuiLogo.png';
+import todolist from './assets/work_logo/todolist.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
@@ -228,7 +229,7 @@ export const SkillsInfo = [
       title: "To Do List",
       description:
         "A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, complete, and delete tasks with a clean and interactive user interface.",
-      image: jsuiLogo,
+      image: todolist,
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/abhishekbabu04/Todo_list_js",
       webapp: "https://abhitodolist-six-weld.vercel.app/",
