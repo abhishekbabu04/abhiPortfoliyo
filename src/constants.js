@@ -46,7 +46,7 @@ import rprdLogo from './assets/company_logo/rprdLogo.webp';
 // Project Section Logo's
 import bootsProject from './assets/work_logo/boots.png';
 import jsuiLogo from './assets/work_logo/jsuiLogo.png';
-import todolist from './assets/work_logo/todolist.png';
+import todolist from './assets/work_logo/todolistt.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
